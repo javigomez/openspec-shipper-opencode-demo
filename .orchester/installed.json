@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "installedAt": "2026-07-04T21:54:02.510Z",
+  "files": {
+    ".opencode/agents/openspec-apply-worker.md": {
+      "sourceHash": "2098fc6acfbc21d56b60e25dce53aa696d5d7c51035dede9309a1d9b239fa284",
+      "targetHash": "2098fc6acfbc21d56b60e25dce53aa696d5d7c51035dede9309a1d9b239fa284"
+    },
+    ".opencode/agents/openspec-archive-worker.md": {
+      "sourceHash": "2c97e035a13f3208dcd8ccf4c1a1518bf9fa22177adda05d9e6742058448d375",
+      "targetHash": "2c97e035a13f3208dcd8ccf4c1a1518bf9fa22177adda05d9e6742058448d375"
+    },
+    ".opencode/agents/openspec-main-sync-worker.md": {
+      "sourceHash": "cdd0a010147c7174e6f5c2a4f29f3092371f79ad4cd789fe4f5aff9e615b1cd8",
+      "targetHash": "cdd0a010147c7174e6f5c2a4f29f3092371f79ad4cd789fe4f5aff9e615b1cd8"
+    },
+    ".opencode/agents/openspec-ship-worker.md": {
+      "sourceHash": "799942196de1b4a632998476d29390a9e87ae51ba50670ac7e80c0a5bb2af7bc",
+      "targetHash": "799942196de1b4a632998476d29390a9e87ae51ba50670ac7e80c0a5bb2af7bc"
+    },
+    ".opencode/commands/openspec-apply-worktree.md": {
+      "sourceHash": "8795954e072c50c01b3db607357feb7e417921101be0ec7951d10ead014430f5",
+      "targetHash": "8795954e072c50c01b3db607357feb7e417921101be0ec7951d10ead014430f5"
+    },
+    ".opencode/commands/openspec-archive-merged.md": {
+      "sourceHash": "cc2a24358310da470e7fb3fae1d5db7d5c8a4f743ed31f1884c469a3b83e75d3",
+      "targetHash": "cc2a24358310da470e7fb3fae1d5db7d5c8a4f743ed31f1884c469a3b83e75d3"
+    },
+    ".opencode/commands/openspec-main-sync.md": {
+      "sourceHash": "3d5286500652c2bd06a6faca6544c472e4691484081e275124a31ce9e3dea22a",
+      "targetHash": "3d5286500652c2bd06a6faca6544c472e4691484081e275124a31ce9e3dea22a"
+    },
+    ".opencode/commands/openspec-ship-worktree.md": {
+      "sourceHash": "b9bba81f38d83590fa7d5a6674b038419930033619fb30d8ba4003c17d611760",
+      "targetHash": "b9bba81f38d83590fa7d5a6674b038419930033619fb30d8ba4003c17d611760"
+    },
+    ".opencode/rules/openspec-git-workflow.md": {
+      "sourceHash": "09cfb58eb3424e2d41183738e5dbc92af3b9361491ed6053e468016f10f51b99",
+      "targetHash": "09cfb58eb3424e2d41183738e5dbc92af3b9361491ed6053e468016f10f51b99"
+    },
+    ".github/workflows/open-pr-on-branch-push.yml": {
+      "sourceHash": "289acd11d405f814b7e388377bc4755d7df68d460f08f865c66abfd2441cfc41",
+      "targetHash": "289acd11d405f814b7e388377bc4755d7df68d460f08f865c66abfd2441cfc41"
+    },
+    ".github/workflows/pr-checks.yml": {
+      "sourceHash": "744cb0bec4b0845f6c53d9b6c20f550d05774789f9077c285a543c8d2465e93f",
+      "targetHash": "744cb0bec4b0845f6c53d9b6c20f550d05774789f9077c285a543c8d2465e93f"
+    },
+    "README.orchester.md": {
+      "sourceHash": "53f655250f5bc4bbe9015c79af6c542f70493681894a7b0dae140a71d25b95ba",
+      "targetHash": "53f655250f5bc4bbe9015c79af6c542f70493681894a7b0dae140a71d25b95ba"
+    },
+    "commitlint.config.cjs": {
+      "sourceHash": "c4cd9bbe7faf2b7817898c4306f4d07a6bf6810538b2a7cf104f6ee940da5473",
+      "targetHash": "c4cd9bbe7faf2b7817898c4306f4d07a6bf6810538b2a7cf104f6ee940da5473"
+    },
+    "docs/agents/orchester-workflow.md": {
+      "sourceHash": "8536af022fff48a4ec56ccc08e852e5229d146dfe87c3c9bfd8a77c58098fc44",
+      "targetHash": "8536af022fff48a4ec56ccc08e852e5229d146dfe87c3c9bfd8a77c58098fc44"
+    },
+    "openspec/config.orchester.example.yaml": {
+      "sourceHash": "48a02b7c8b873bdab18d9262204f18be58861f26e6e645f9b7fb31d74ae5194d",
+      "targetHash": "48a02b7c8b873bdab18d9262204f18be58861f26e6e645f9b7fb31d74ae5194d"
+    },
+    "scripts/validate-branch-name.mjs": {
+      "sourceHash": "ce8eeb30e6a74db56ba5ee778bd1ff93f3989506e2c894853b44b97223677be3",
+      "targetHash": "ce8eeb30e6a74db56ba5ee778bd1ff93f3989506e2c894853b44b97223677be3"
+    },
+    "scripts/validate-openspec-proposal.mjs": {
+      "sourceHash": "487ed7feddf870cf5de4cd0438700771820e03218f420cfe907f49d94ee8459a",
+      "targetHash": "487ed7feddf870cf5de4cd0438700771820e03218f420cfe907f49d94ee8459a"
+    },
+    ".orchester/config.json": {
+      "sourceHash": "c3e229c86ba89574db6da7a082f4fcb7d56865be188c91080919149a7b90109d",
+      "targetHash": "c3e229c86ba89574db6da7a082f4fcb7d56865be188c91080919149a7b90109d"
+    },
+    ".gitignore": {
+      "sourceHash": "4136d6dc41ed87bd1fe3d871e5148e754c85e09b581bb8e1de253bf5de6324e9",
+      "targetHash": "4136d6dc41ed87bd1fe3d871e5148e754c85e09b581bb8e1de253bf5de6324e9"
+    }
+  }
+}

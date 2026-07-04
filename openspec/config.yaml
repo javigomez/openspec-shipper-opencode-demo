@@ -1,0 +1,22 @@
+schema: spec-driven
+
+context: |
+  Project: tiny Node.js hello world CLI used to demonstrate Orchester.
+  Architecture: keep greeting logic in src/hello.js and test behavior through node:test.
+  Testing: npm run check is the local quality gate.
+  Orchester workflow source of truth: docs/agents/orchester-workflow.md.
+  OpenSpec planning and archive operations run from the clean root main checkout.
+  Implementation work runs in worktrees/<change-name> on <type>/<change-name>.
+
+rules:
+  proposal:
+    - Prefer the smallest coherent change that solves the problem now.
+    - Include explicit non-goals or deferred work to enforce YAGNI.
+    - Before finishing proposal work, run npm run openspec:validate-proposal -- <change-name>.
+  specs:
+    - Write scenarios that are directly translatable into node:test cases.
+    - Cover happy path first, then alternatives, then edge cases.
+  tasks:
+    - Break implementation into small vertical slices.
+    - Mark tasks complete only after the work and relevant validation are done.
+    - Put human validation work in tasks.md as checkbox tasks.

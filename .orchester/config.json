@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "profile": "node-npm",
+  "baseBranch": "main",
+  "packageManager": "npm",
+  "github": {
+    "autoOpenPr": true,
+    "prChecks": true
+  },
+  "checks": {
+    "install": "npm ci",
+    "branch": "npm run lint:branch --",
+    "commits": "npx commitlint",
+    "typecheck": "npm run test:types",
+    "lint": "npm run lint",
+    "format": "npm run format:check",
+    "unit": "npm run test:unit",
+    "openspec": "npm run openspec:cli --",
+    "validateProposal": "npm run openspec:validate-proposal --"
+  },
+  "safety": {
+    "enablePush": false,
+    "enableArchive": false
+  }
+}
