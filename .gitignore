@@ -1,6 +1,9 @@
 # Dependencies
 node_modules/
 
+# Editor
+.idea/
+
 # OpenSpec Shipper
 .openspec-shipper/.env
 .openspec-shipper/queue.md
