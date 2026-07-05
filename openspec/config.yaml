@@ -1,10 +1,10 @@
 schema: spec-driven
 
 context: |
-  Project: tiny Node.js hello world CLI used to demonstrate Orchester.
+  Project: tiny Node.js hello world CLI used to demonstrate OpenSpec Shipper.
   Architecture: keep greeting logic in src/hello.js and test behavior through node:test.
   Testing: npm run check is the local quality gate.
-  Orchester workflow source of truth: docs/agents/orchester-workflow.md.
+  OpenSpec Shipper workflow source of truth: docs/agents/openspec-shipper-workflow.md.
   OpenSpec planning and archive operations run from the clean root main checkout.
   Implementation work runs in worktrees/<change-name> on <type>/<change-name>.
 

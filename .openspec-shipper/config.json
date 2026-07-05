@@ -3,6 +3,17 @@
   "profile": "node-npm",
   "baseBranch": "main",
   "packageManager": "npm",
+  "executor": {
+    "provider": "opencode",
+    "opencode": {
+      "bin": "opencode",
+      "model": "opencode-go/deepseek-v4-pro"
+    },
+    "codex": {
+      "bin": "codex",
+      "model": "gpt-5.1-codex"
+    }
+  },
   "github": {
     "autoOpenPr": true,
     "prChecks": true

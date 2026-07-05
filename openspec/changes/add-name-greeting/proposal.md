@@ -2,7 +2,7 @@
 
 ## Why
 
-The demo needs a tiny, safe change that an Orchester apply worker can implement
+The demo needs a tiny, safe change that an OpenSpec Shipper apply worker can implement
 end to end without domain complexity.
 
 ## What Changes
@@ -15,4 +15,4 @@ end to end without domain complexity.
 
 - No argument parser dependency.
 - No localization.
-- No remote push or archive until Orchester safety flags are enabled.
+- No remote push or archive until OpenSpec Shipper safety flags are enabled.

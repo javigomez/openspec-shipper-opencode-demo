@@ -1,1 +1,3 @@
 - [ ] deliver add-name-greeting
+- [ ] deliver add-spanish-greeting <!-- depends_on: add-name-greeting -->
+- [ ] deliver add-shouting-greeting <!-- depends_on: add-spanish-greeting -->

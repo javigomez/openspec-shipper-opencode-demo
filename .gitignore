@@ -1,7 +1,9 @@
 # Dependencies
 node_modules/
 
-# Orchester
-.orchester/runs/
-.orchester/tmp/
+# OpenSpec Shipper
+.openspec-shipper/.env
+.openspec-shipper/queue.md
+.openspec-shipper/runs/
+.openspec-shipper/tmp/
 worktrees/

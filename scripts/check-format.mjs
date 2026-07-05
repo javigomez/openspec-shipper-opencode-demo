@@ -1,7 +1,7 @@
 import { readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";
 
-const ignoredDirectories = new Set([".git", "node_modules", "worktrees", ".orchester"]);
+const ignoredDirectories = new Set([".git", "node_modules", "worktrees", ".openspec-shipper"]);
 const failures = [];
 
 for (const file of await listFiles(process.cwd())) {

@@ -1,6 +1,6 @@
-# Orchester Workflow
+# OpenSpec Shipper Workflow
 
-This repository is prepared for Orchester, an OpenSpec execution queue that runs
+This repository is prepared for OpenSpec Shipper, an OpenSpec execution queue that runs
 one change through apply, ship, sync, and archive phases.
 
 ## Contract
@@ -16,7 +16,7 @@ one change through apply, ship, sync, and archive phases.
 
 ## Expected Scripts
 
-The default Orchester profile expects these package scripts:
+The default OpenSpec Shipper profile expects these package scripts:
 
 - `openspec:cli`
 - `openspec:validate-proposal`
@@ -26,5 +26,5 @@ The default Orchester profile expects these package scripts:
 - `format:check`
 - `test:unit`
 
-If this repository uses different commands, update `.orchester/config.json` and
+If this repository uses different commands, update `.openspec-shipper/config.json` and
 the GitHub workflows together.
