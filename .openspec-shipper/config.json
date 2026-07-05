@@ -16,7 +16,7 @@
   },
   "github": {
     "autoOpenPr": true,
-    "prChecks": true
+    "prChecks": false
   },
   "checks": {
     "install": "npm ci",

@@ -7,7 +7,6 @@ This repository has OpenSpec Shipper assets installed:
 - `.opencode/agents`
 - `.opencode/rules`
 - `.github/workflows/open-pr-on-branch-push.yml`
-- `.github/workflows/pr-checks.yml`
 
 Run from this repository:
 
