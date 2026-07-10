@@ -43,7 +43,7 @@ npx openspec-shipper queue dry-run
 When the dry-run looks right, run one queue step:
 
 ```bash
-npx openspec-shipper queue next
+npx openspec-shipper queue run
 ```
 
 The default `deliver` flow is:
