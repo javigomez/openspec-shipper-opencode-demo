@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "installedAt": "2026-07-13T08:12:42.572Z",
+  "files": {
+    ".opencode/agents/openspec-apply-worker.md": {
+      "sourceHash": "b7c802b1f2b11d45d4ff14facf0262a2725dfad760ce194ec65ddfc465bc4a77",
+      "targetHash": "b7c802b1f2b11d45d4ff14facf0262a2725dfad760ce194ec65ddfc465bc4a77"
+    },
+    ".opencode/agents/openspec-archive-worker.md": {
+      "sourceHash": "57b0083939ec3b2bed236d6dcc4aaa64b96cc49656a3ff89856834fb08f0ccb4",
+      "targetHash": "57b0083939ec3b2bed236d6dcc4aaa64b96cc49656a3ff89856834fb08f0ccb4"
+    },
+    ".opencode/agents/openspec-main-sync-worker.md": {
+      "sourceHash": "a4b2bd10049a0312f0cc3ed49bab8e07522bd0b7a38e6b8bb58e23b7bc359e97",
+      "targetHash": "a4b2bd10049a0312f0cc3ed49bab8e07522bd0b7a38e6b8bb58e23b7bc359e97"
+    },
+    ".opencode/agents/openspec-ship-worker.md": {
+      "sourceHash": "65bf9164451635a154b01c0231e1860d6b1731ee45c28ecb2671aea4d6629dcc",
+      "targetHash": "65bf9164451635a154b01c0231e1860d6b1731ee45c28ecb2671aea4d6629dcc"
+    },
+    ".opencode/commands/openspec-apply-worktree.md": {
+      "sourceHash": "6e2f3c2cd972ce07b1b0961b23eb3a5f98e57789d7e83105eeb699d0f93b6181",
+      "targetHash": "6e2f3c2cd972ce07b1b0961b23eb3a5f98e57789d7e83105eeb699d0f93b6181"
+    },
+    ".opencode/commands/openspec-archive-merged.md": {
+      "sourceHash": "f395bf703689680ae70ecbac767d2340050392df8452d92e75e2af2ef0c21ce7",
+      "targetHash": "f395bf703689680ae70ecbac767d2340050392df8452d92e75e2af2ef0c21ce7"
+    },
+    ".opencode/commands/openspec-main-sync.md": {
+      "sourceHash": "ecf1301b2a275e48006fb6fa3358fedcd788e98caeb2640288fcd3be1abe5865",
+      "targetHash": "ecf1301b2a275e48006fb6fa3358fedcd788e98caeb2640288fcd3be1abe5865"
+    },
+    ".opencode/commands/openspec-ship-worktree.md": {
+      "sourceHash": "505627e70a5a890046b3b0ac895985e3808c34344fa7bc7dcd9c13cc82f93fc0",
+      "targetHash": "505627e70a5a890046b3b0ac895985e3808c34344fa7bc7dcd9c13cc82f93fc0"
+    },
+    ".opencode/rules/openspec-git-workflow.md": {
+      "sourceHash": "c4bc0699232e6ec8f1303983159dbf1081400e4ae4ee0cd590d99940e7f21c08",
+      "targetHash": "c4bc0699232e6ec8f1303983159dbf1081400e4ae4ee0cd590d99940e7f21c08"
+    },
+    ".github/workflows/open-pr-on-branch-push.yml": {
+      "sourceHash": "f2ded4a1d43bb7e596e952a07b9e3762db1340b89e00f75acce6e033d56b9e3d",
+      "targetHash": "f2ded4a1d43bb7e596e952a07b9e3762db1340b89e00f75acce6e033d56b9e3d"
+    },
+    ".openspec-shipper/README.md": {
+      "sourceHash": "31107199910f1fbcf31855ba9d7abaf9a11e8160a7894ba1593cd254d023f9a3",
+      "targetHash": "31107199910f1fbcf31855ba9d7abaf9a11e8160a7894ba1593cd254d023f9a3"
+    },
+    ".openspec-shipper/openspec-config.example.yaml": {
+      "sourceHash": "535feb541fe0f11b978f4d2f21a30d3bbf0cc3f17324d040d70ad25da6f826e1",
+      "targetHash": "535feb541fe0f11b978f4d2f21a30d3bbf0cc3f17324d040d70ad25da6f826e1"
+    },
+    ".openspec-shipper/scripts/validate-branch-name.mjs": {
+      "sourceHash": "ce8eeb30e6a74db56ba5ee778bd1ff93f3989506e2c894853b44b97223677be3",
+      "targetHash": "ce8eeb30e6a74db56ba5ee778bd1ff93f3989506e2c894853b44b97223677be3"
+    },
+    ".openspec-shipper/scripts/validate-openspec-proposal.mjs": {
+      "sourceHash": "487ed7feddf870cf5de4cd0438700771820e03218f420cfe907f49d94ee8459a",
+      "targetHash": "487ed7feddf870cf5de4cd0438700771820e03218f420cfe907f49d94ee8459a"
+    },
+    ".openspec-shipper/config.json": {
+      "sourceHash": "bc7ddccf420630f37b59dd4c61c4011f918af28c0fd135b7985d1d4402ddf7e2",
+      "targetHash": "bc7ddccf420630f37b59dd4c61c4011f918af28c0fd135b7985d1d4402ddf7e2"
+    },
+    ".openspec-shipper/.env.example": {
+      "sourceHash": "b7b5f6195d845c750a02c0c5b1f81cdc866eb529d8a18d7fad8626901ba64aa9",
+      "targetHash": "b7b5f6195d845c750a02c0c5b1f81cdc866eb529d8a18d7fad8626901ba64aa9"
+    },
+    ".openspec-shipper/queue.example.md": {
+      "sourceHash": "5d5eb02e499f35780d3369241559a80c69272141046492882b54a8b46974a7b0",
+      "targetHash": "5d5eb02e499f35780d3369241559a80c69272141046492882b54a8b46974a7b0"
+    }
+  }
+}
