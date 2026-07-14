@@ -19,6 +19,6 @@
     "@commitlint/cli": "^21.0.2",
     "@commitlint/config-conventional": "^21.0.2",
     "@fission-ai/openspec": "^1.2.0",
-    "openspec-shipper": "^0.1.24"
+    "openspec-shipper": "^0.1.25"
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "installedAt": "2026-07-14T15:24:35.063Z",
+  "installedAt": "2026-07-14T16:03:42.353Z",
   "files": {
     ".opencode/agents/openspec-apply-worker.md": {
       "sourceHash": "2f1c31012d11a5216239768cf19036a0ecc705d26a3551904f43b7aaea804e52",
@@ -71,8 +71,8 @@
       "targetHash": "bc7ddccf420630f37b59dd4c61c4011f918af28c0fd135b7985d1d4402ddf7e2"
     },
     ".openspec-shipper/.env.example": {
-      "sourceHash": "b7b5f6195d845c750a02c0c5b1f81cdc866eb529d8a18d7fad8626901ba64aa9",
-      "targetHash": "b7b5f6195d845c750a02c0c5b1f81cdc866eb529d8a18d7fad8626901ba64aa9"
+      "sourceHash": "0ec4339e8cc6de889c415fbe5ec876a475d3b595270ac8e0385920a591fb3c53",
+      "targetHash": "0ec4339e8cc6de889c415fbe5ec876a475d3b595270ac8e0385920a591fb3c53"
     },
     ".openspec-shipper/queue.example.md": {
       "sourceHash": "5d5eb02e499f35780d3369241559a80c69272141046492882b54a8b46974a7b0",
